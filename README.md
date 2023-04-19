@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+My Name is  Matthias, and im a full-stack engineer living in Vienna. I like technology of all sorts, in my professional career i mostly use Java, SQL and Python, and in my free time i branch out to all kind of stuff.
 <!--
 **Mnikley/Mnikley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Mnikley's GitHub stats](https://github-readme-stats.vercel.app/api?username=MNikley&theme=dracula&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mnikley&langs_count=10&hide_progress=true&theme=dracula)](https://github.com/Mnikley/github-readme-stats)
