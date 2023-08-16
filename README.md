@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 ![Mnikley's GitHub stats](https://github-readme-stats.vercel.app/api?username=MNikley&theme=dracula&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mnikley&langs_count=10&hide_progress=true&theme=dracula)](https://github.com/Mnikley/github-readme-stats)
-![MNikley's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mnikley\&layout=compact&theme=dracula)
+![MNikley's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mnikley\&layout=compact&theme=dracula&langs_count=14&hide=textmate,TEXT,Other,Sublime%20Text%20Config)
