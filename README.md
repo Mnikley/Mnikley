@@ -1,5 +1,5 @@
 ### Hi there 👋
-My Name is  Matthias, and im a full-stack engineer living in Vienna. I like technology of all sorts, in my professional career i mostly use Java, SQL and Python, and in my free time i branch out to all kind of stuff.
+My Name is  Matthias, and im a full-stack engineer living in Vienna. In my professional career i mostly use Java, SQL and Python, and in my free time i branch out to all kind of stuff.
 <!--
 **Mnikley/Mnikley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
