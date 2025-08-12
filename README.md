@@ -2,7 +2,11 @@
 ![codingtoday](https://img.shields.io/endpoint?url=https://wakapi.mle.sh/api/compat/shields/v1/glory/interval:today&label=today)
 ![codinglast30d](https://img.shields.io/endpoint?url=https://wakapi.mle.sh/api/compat/shields/v1/glory/interval:30_days&label=last%20month)
 
-My Name is  Matthias, and im a full-stack engineer living in Vienna. In my professional career i mostly use Java, SQL and Python, and in my free time i branch out to all kind of stuff.
+My Name is Matthias, and im a full-stack engineer living in Vienna. 
+
+- Building apps & frameworks for digital drug discovery, mainly with Java, SQL, Python, JS & Cypher.
+- 🥸 Migrating to private GIT server - activity here may decrease.
+- www.leysolutions.com
 <!--
 **Mnikley/Mnikley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
