@@ -1,6 +1,4 @@
 ### Hi there 👋
-![codingtoday](https://img.shields.io/endpoint?url=https://wakapi.mle.sh/api/compat/shields/v1/glory/interval:today&label=today)
-![codinglast30d](https://img.shields.io/endpoint?url=https://wakapi.mle.sh/api/compat/shields/v1/glory/interval:30_days&label=last%20month)
 
 My Name is Matthias, and im a full-stack engineer living in Vienna. 
 
